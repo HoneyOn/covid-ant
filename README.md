@@ -8,7 +8,7 @@
 
 * 개인 투자자를 위해 일일 코로나 뉴스 개수, 주가 데이터를 활용해 코로나 관련 주의 변동성 예측을 제공하는 웹 서비스
 * 경희대 창의적종합설계 수업에서 "코로나-19 뉴스에 기반한 코로나-19 관련 주의 변동성 예측"을 주제로 한 연구에 포함된 프로토 타입입니다.
-  * [발표 영상](https://drive.google.com/file/d/1pMalM-XCZuhVj51ilM_LdYqtzjKLCoJm/view?usp=sharing)
+  [발표 영상](https://drive.google.com/file/d/1pMalM-XCZuhVj51ilM_LdYqtzjKLCoJm/view?usp=sharing)
 
 <br/>
 
