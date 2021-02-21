@@ -14,11 +14,13 @@
 
 ## View
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="https://user-images.githubusercontent.com/46865281/108620615-9e8afc80-7470-11eb-90c9-5b6e29f69567.png" style="width: 50%; height: 50%;">
-    <img src="https://user-images.githubusercontent.com/46865281/108620616-9fbc2980-7470-11eb-9182-0afc9806f291.png" style="width: 50%; height: 50%;">
-    <img src="https://user-images.githubusercontent.com/46865281/108620618-a0ed5680-7470-11eb-87a1-7ac74e0da940.png" style="width: 50%; height: 50%;">
-  <img src="https://user-images.githubusercontent.com/46865281/108620619-a21e8380-7470-11eb-888a-1a4ce1bef28e.png" style="width: 50%; height: 50%;">
+<div style="display: flex;">
+  <img src="https://user-images.githubusercontent.com/46865281/108620615-9e8afc80-7470-11eb-90c9-5b6e29f69567.png" style="width: 250px; height:150px">
+    <img src="https://user-images.githubusercontent.com/46865281/108620616-9fbc2980-7470-11eb-9182-0afc9806f291.png" style="width: 250px; height:150px">
+</div>
+<div style="display: flex;">
+    <img src="https://user-images.githubusercontent.com/46865281/108620618-a0ed5680-7470-11eb-87a1-7ac74e0da940.png" style="width: 250px; height:150px">
+  <img src="https://user-images.githubusercontent.com/46865281/108620619-a21e8380-7470-11eb-888a-1a4ce1bef28e.png" style="width: 250px; height:150px">
 </div>
 
 <br/>
