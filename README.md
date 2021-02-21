@@ -12,7 +12,7 @@
 
 <br/>
 
-## View
+## 👀 View
 
 <div style="display: flex;">
   <img src="https://user-images.githubusercontent.com/46865281/108620615-9e8afc80-7470-11eb-90c9-5b6e29f69567.png" width="400px;">
@@ -26,7 +26,7 @@
 <br/>
 
 
-## Feature
+## 🚀 Feature
 
 1. LSTM 모델로 학습한 후 주가 변동성 예측 결과를 보여줌
    - 주가와 코로나 주식 뉴스 개수를 독립변수로, 주가 변동성(시가와 종가의 차이)을 종속 변수로 사용
@@ -35,7 +35,7 @@
 
 <br/>
 
-## Usage
+## 🎒 Usage
 
 ```bash
 # server
@@ -47,7 +47,7 @@ cd client && yarn && yarn start
 
 <br/>
 
-## Stack
+## 🛠 Stack
 
 Front: javascript, React, Redux, Redux-thunk, styled-components, [victory](https://formidable.com/open-source/victory/)
 
@@ -71,7 +71,7 @@ Infra: Naver Cloud Platform
 
 <br/>
 
-## Team
+## 👨🏻‍💻 Team
 
 [오승영](https://github.com/seung-00)
 
